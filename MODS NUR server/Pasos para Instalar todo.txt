@@ -1,0 +1,15 @@
+Paso 1:
+Tener Instalado Java 8 (Más que seguro deberías tenerlo instalado)
+Ir a la carpeta de "Version"
+Darle doble click a la versión que está ahi en la carpeta.
+Paso2:
+Primeramente ir al buscador de windows y buscar %appdata%,
+luego ir a .minecraft y despues ir a la carpeta de mods.
+En el archivo descargado de los mods, copiar y pegar todos los mods que
+están en la carpeta y lo pegan en la otra carpeta de mods de .minecraft
+Para los que ya tenian los otros mods, igualmente peguenlo todos los mods
+y solamente selecciones la opción de "Reemplazar todo" y listo xd.
+Ya podrian entrar al servidor tranquilamente:
+
+IP:
+108.181.149.239:25735
